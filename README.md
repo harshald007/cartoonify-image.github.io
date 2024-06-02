@@ -10,7 +10,7 @@
 
 ![Screenshot 2024-05-22 193850](https://github.com/harshald007/image-processiong.github.io/assets/121076753/9209dd26-41b7-4b0f-9e4b-d75835c8640c)
 
-> In above output the image are in 4 color
+>  Output the image are in Four Type
 > 1. GrayScaleImage
 > 2. SmoothGrayScale
 > 3. ColorImage
