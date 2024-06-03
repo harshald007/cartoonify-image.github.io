@@ -1,4 +1,4 @@
-# image-processiong.github.io
+
 # sample image for image processing
 ![cat](https://github.com/harshald007/cartoonify-image.github.io/assets/121076753/a0870419-6140-4cfa-905a-9f0d2e5f31dd)
 
